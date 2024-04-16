@@ -3,7 +3,7 @@
 Live Site URL: [https://yomarcs.github.io/order-summary-component/](https://yomarcs.github.io/order-summary-component/)
 
 
-![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Order summary card coding challenge](./images/desktop-preview.jpg)
 
 This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -18,7 +18,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Screenshot
 
-![Frontend Mentor - Order summary card solution](./design/screenshot-solution.png)
+![Frontend Mentor - Order summary card solution](./images/screenshot-solution.png)
 
 ### Links
 
