@@ -29,7 +29,8 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
+- Grid
+- Sass
 
 ## Author
 
