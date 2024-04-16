@@ -34,11 +34,11 @@ body {
   place-items: center;
   min-width: 100vw;
   min-height: 100vh;
-  background: hsl(225, 100%, 94%) url("../images/pattern-background-mobile.svg") no-repeat top/contain;
+  background: hsl(225, 100%, 94%) url("./images/pattern-background-mobile.svg") no-repeat top/contain;
 }
 @media screen and (min-width: 900px) {
   .container {
-    background: hsl(225, 100%, 94%) url("../images/pattern-background-desktop.svg") no-repeat top/contain;
+    background: hsl(225, 100%, 94%) url("./images/pattern-background-desktop.svg") no-repeat top/contain;
   }
 }
 .container .card {
